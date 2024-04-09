@@ -17,7 +17,7 @@ FAST Society of Cybersecurity is a student-led organization dedicated to develop
 
 ### Contact Us
 - Email: cfd.cybersecurity@nu.edu.pk
-- LinkedIn: [FAST Society of Cybersecurity]([https://www.linkedin.com/company/fast-society-of-cybersecurity](https://www.linkedin.com/company/fast-society-of-cybersecurity-10/))
+- LinkedIn: [FAST Society of Cybersecurity]([https://www.linkedin.com/company/fast-society-of-cybersecurity])
 - Instagram: [@cfd_cybersecurity](https://www.instagram.com/cfd_cybersecurity/)
 
 Thank you for your interest in FAST Society of Cybersecurity. Together, let's build a safer and more secure digital world!
