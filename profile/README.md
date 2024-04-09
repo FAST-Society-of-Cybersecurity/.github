@@ -1,4 +1,4 @@
-**FAST Society of Cybersecurity**
+#FAST Society of Cybersecurity
 
 Welcome to the GitHub repository of the FAST Society of Cybersecurity! Here you will find a collection of resources, projects, and tools aimed at promoting cybersecurity awareness, education, and collaboration within our community.
 
